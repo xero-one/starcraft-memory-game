@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "count": 0,
+          "name": "Zeratul",
+      "image": "./images/zeratul.png"
+    },
+  
+    {
+      "id": 2,
+      "count": 0,
+          "name": "Artanis",
+      "image": "./images/artanis.png"
+    },
+    {
+      "id": 3,
+      "count": 0,
+          "name": "Duke",
+      "image": "./images/Duke.png"
+    },
+    {
+      "id": 4,
+      "count": 0,
+          "name": "Rynor",
+      "image": "./images/rynor.png"
+    },
+    {
+      "id": 5,
+      "count": 0,
+          "name": "Queen of Blades",
+      "image": "./images/queen-of-blades.png"
+    },
+    {
+      "id": 6,
+      "count": 0,
+          "name": "Overmind",
+      "image": "./images/overmind.png"
+    },
+    {
+      "id": 7,
+      "count": 0,
+          "name": "Duran",
+      "image": "./images/durran.png"
+    },
+    {
+      "id": 8,
+      "count": 0,
+          "name": "Infested Duran",
+      "image": "./images/infested-duran.png"
+    },
+    {
+      "id": 9,
+      "count": 0,
+          "name": "Alexie Stukov",
+      "image": "./images/alexie-stukov.png"
+    },
+    {
+      "id": 10,
+      "count": 0,
+          "name": "Fenix",
+      "image": "./images/fenix.png"
+    },
+    {
+      "id": 11,
+      "count": 0,
+          "name": "Tassadar",
+      "image": "./images/tassadar.png"
+    },
+    {
+      "id": 12,
+      "count": 0,
+          "name": "Sarah Kerrigan",
+      "image": "./images/kerrigan.png"
+    }
+  ] 
