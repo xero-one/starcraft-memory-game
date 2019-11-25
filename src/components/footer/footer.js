@@ -8,6 +8,9 @@ const Footer = props => (
         <tbody>
             <tr>
                 <td className="align-middle">
+                    <a href="https://npmjs.com/" target="_blank" rel="noopener noreferrer">
+                        <i className="fab fa-npm fa-2x"></i>
+                    </a>
                     <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-react fa-2x"></i>
                     </a>
