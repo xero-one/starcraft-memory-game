@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/repo-name/static/css/main.bce1a88b.chunk.css",
+    "main.js": "/repo-name/static/js/main.f33c19f7.chunk.js",
+    "main.js.map": "/repo-name/static/js/main.f33c19f7.chunk.js.map",
+    "runtime-main.js": "/repo-name/static/js/runtime-main.ce4c2157.js",
+    "runtime-main.js.map": "/repo-name/static/js/runtime-main.ce4c2157.js.map",
+    "static/js/2.dac8f412.chunk.js": "/repo-name/static/js/2.dac8f412.chunk.js",
+    "static/js/2.dac8f412.chunk.js.map": "/repo-name/static/js/2.dac8f412.chunk.js.map",
+    "index.html": "/repo-name/index.html",
+    "precache-manifest.65fb73bfbed492dd02a865663d9a19a9.js": "/repo-name/precache-manifest.65fb73bfbed492dd02a865663d9a19a9.js",
+    "service-worker.js": "/repo-name/service-worker.js",
+    "static/css/main.bce1a88b.chunk.css.map": "/repo-name/static/css/main.bce1a88b.chunk.css.map",
+    "static/media/correctFX.wav": "/repo-name/static/media/correctFX.74b9a09d.wav",
+    "static/media/header.css": "/repo-name/static/media/sc-logo.05fc41e4.svg",
+    "static/media/starcraftTHEME.mp3": "/repo-name/static/media/starcraftTHEME.0da37542.mp3",
+    "static/media/wrongFX.wav": "/repo-name/static/media/wrongFX.356f45c0.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce4c2157.js",
+    "static/js/2.dac8f412.chunk.js",
+    "static/css/main.bce1a88b.chunk.css",
+    "static/js/main.f33c19f7.chunk.js"
+  ]
+}
