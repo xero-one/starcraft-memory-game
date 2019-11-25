@@ -1,0 +1,39 @@
+.header {
+    background-image: url(../../assets/images/sc-logo.svg);
+    background-repeat: no-repeat;
+    background-color: #2c323c;
+    background-position: center;
+    background-size: 90%;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    min-height: 130px;
+    animation: animatedBackground 10s linear infinite;
+    border-bottom: 5px solid black;
+  }
+  
+  .logo-button {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    background-color: black;
+    border: 1px solid black;
+  }
+  
+  .logo-button:hover{
+    background-color: black;
+    border: 1px solid black;
+  }
+  
+  #popover-positioned-left {
+    max-width: 200px;
+  }
+  
+  .sc-logo {
+    width: 100%;
+  }  
+  
+  @keyframes animatedBackground {
+    from { background-position: 50% 200%; }
+    to { background-position: 50% -100%; }
+  }

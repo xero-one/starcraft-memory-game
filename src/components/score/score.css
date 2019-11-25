@@ -1,0 +1,37 @@
+.btn-score {
+    position: center;
+    left: -50px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-right: 2px;
+    padding-bottom: 15px;
+    padding-left: 2px;
+}
+
+.btn-score:hover {
+    cursor: default;
+}
+
+#incorrect {
+    animation: bounce 0.82s linear infinite;
+  }
+  
+@keyframes bounce{
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+	40% {
+        transform: translateY(-12px);
+    }
+	60% {
+        transform: translateY(-6px);
+    }
+}
+
+@media only screen and (max-width: 1350px) {
+    .btn-score {
+        margin-top: 0px;
+        position: static;
+        border-radius: 0px;
+    }
+}

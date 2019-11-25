@@ -1,7 +1,7 @@
 /*Imports section for our React, this is basically like our routing to render certain elements within the app especially important elements like header, footer and cards for our gane*/
-import React, { Component } from './node_modules/react';
+import React, { Component } from 'react';
 
-import Sound from './node_modules/react-sound';
+import Sound from 'react-sound';
 
 import './app.css';
 
@@ -19,11 +19,11 @@ import Card from '../card/card.js';
 
 import cards from '../../assets/json/cards.json';
 
-import soundCorrect from '../../assets/sounds/correctFX.mp3';
+import soundCorrect from '../../assets/sounds/correctFX.wav';
 
-import soundIncorrect from '../../assets/sounds/wrongFX.mp3';
+import soundIncorrect from '../../assets/sounds/wrongFX.wav';
 
-import theme from '../../assets/sounds/starcraft.mp3';
+import theme from '../../assets/sounds/starcraftTHEME.mp3';
 
 /*This is the lifestat command to load all elements and functions for the page*/
 class App extends Component{
@@ -38,7 +38,7 @@ class App extends Component{
         soundPosition: 0,
         soundStatus: Sound.status.PLAYING,
         shake: "",
-        message1: "Select an image to begin!",
+        message1: "Select a Starcraft hero to begin the game!",
         message2: "",
         alertType: "info",
         topScoreType: "info",
