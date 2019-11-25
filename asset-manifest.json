@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.8df70d98.chunk.css",
+    "main.css": "/clicky-game/static/css/main.51b72bdd.chunk.css",
     "main.js": "/clicky-game/static/js/main.01daa1cd.chunk.js",
     "main.js.map": "/clicky-game/static/js/main.01daa1cd.chunk.js.map",
     "runtime-main.js": "/clicky-game/static/js/runtime-main.cf0d8eec.js",
@@ -8,9 +8,9 @@
     "static/js/2.dac8f412.chunk.js": "/clicky-game/static/js/2.dac8f412.chunk.js",
     "static/js/2.dac8f412.chunk.js.map": "/clicky-game/static/js/2.dac8f412.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.583d2f3edf35b8a607f178fd787c4fc4.js": "/clicky-game/precache-manifest.583d2f3edf35b8a607f178fd787c4fc4.js",
+    "precache-manifest.873c0d4ff0dc1d315bc920b70d5b2043.js": "/clicky-game/precache-manifest.873c0d4ff0dc1d315bc920b70d5b2043.js",
     "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/main.8df70d98.chunk.css.map": "/clicky-game/static/css/main.8df70d98.chunk.css.map",
+    "static/css/main.51b72bdd.chunk.css.map": "/clicky-game/static/css/main.51b72bdd.chunk.css.map",
     "static/media/correctFX.wav": "/clicky-game/static/media/correctFX.74b9a09d.wav",
     "static/media/header.css": "/clicky-game/static/media/sc-logo.05fc41e4.svg",
     "static/media/starcraftTHEME.mp3": "/clicky-game/static/media/starcraftTHEME.0da37542.mp3",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.cf0d8eec.js",
     "static/js/2.dac8f412.chunk.js",
-    "static/css/main.8df70d98.chunk.css",
+    "static/css/main.51b72bdd.chunk.css",
     "static/js/main.01daa1cd.chunk.js"
   ]
 }
