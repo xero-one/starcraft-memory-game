@@ -20,101 +20,119 @@
     {
       "id": 4,
       "count": 0,
-          "name": "Arcturus Mengsk",
-      "image": "./images/arcturus-mengsk.gif"
+          "name": "Archon",
+      "image": "./images/archon.gif"
     },
     {
       "id": 5,
       "count": 0,
-          "name": "Artanis",
-      "image": "./images/Artanis.gif"
+          "name": "Arcturus Mengsk",
+      "image": "./images/arcturus-mengsk.gif"
     },
     {
       "id": 6,
+      "count": 0,
+          "name": "Artanis",
+      "image": "./images/artanis.gif"
+    },
+    {
+      "id": 7,
+      "count": 0,
+          "name": "Dark Archon",
+      "image": "./images/dark-archon.gif"
+    },
+    {
+      "id": 8,
       "count": 0,
           "name": "Edmund Duke",
       "image": "./images/edmund-duke.gif"
     },
     {
-      "id": 7,
+      "id": 9,
       "count": 0,
           "name": "Fenix",
       "image": "./images/fenix.gif"
     },
     {
-      "id": 8,
+      "id": 10,
       "count": 0,
           "name": "Gerard DuGalle",
       "image": "./images/gerard-dugalle.gif"
     },
     {
-      "id": 9,
+      "id": 11,
       "count": 0,
           "name": "Goliath",
       "image": "./images/goliath.gif"
     },
     {
-      "id": 10,
+      "id": 12,
+      "count": 0,
+          "name": "Hybrid",
+      "image": "./images/hybrid.gif"
+    },
+    {
+      "id": 13,
       "count": 0,
           "name": "Infested Kerrigan",
       "image": "./images/infested-kerrigan.gif"
     },
     {
-      "id": 11,
+      "id": 14,
       "count": 0,
           "name": "Jim Raynor",
       "image": "./images/jim-raynor.gif"
     },
     {
-      "id": 12,
+      "id": 15,
       "count": 0,
           "name": "Overmind",
       "image": "./images/overmind.gif"
     },
     {
-      "id": 13,
+      "id": 16,
       "count": 0,
           "name": "Raszagal",
       "image": "./images/raszagal.gif"
     },
     {
-      "id": 14,
+      "id": 17,
       "count": 0,
           "name": "Samir Duran",
       "image": "./images/samir-duran.gif"
     },
     {
-      "id": 15,
+      "id": 18,
       "count": 0,
           "name": "Science Vessel",
       "image": "./images/science-vessel.gif"
     },
     {
-      "id": 16,
+      "id": 19,
       "count": 0,
           "name": "Tassadar",
       "image": "./images/tassadar.gif"
     },
     {
-      "id": 17,
+      "id": 20,
       "count": 0,
           "name": "UED",
       "image": "./images/ued-goliath.gif"
     },    
     {
-      "id": 18,
+      "id": 21,
       "count": 0,
           "name": "Valkyrie",
       "image": "./images/valkyrie.gif"
     },
     {
-      "id": 19,
+      "id": 22,
       "count": 0,
           "name": "Wraith",
       "image": "./images/wraith.gif"
     },
     {
-      "id": 20,
+      "id": 23,
       "count": 0,
           "name": "Zeratul",
       "image": "./images/zeratul.gif"
