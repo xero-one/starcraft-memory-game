@@ -1,22 +1,23 @@
 [
-    {
+  {
       "id": 1,
+      "count": 0,
+          "name": "Adjutant",
+      "image": "./images/adjutant.gif"
+    },
+    {
+      "id": 2,
       "count": 0,
           "name": "Aldaris",
       "image": "./images/aldaris.gif"
     },
     {
-      "id": 2,
+      "id": 3,
       "count": 0,
           "name": "Alexei Stukov",
       "image": "./images/alexei-stukov.gif"
     },
-    {
-      "id": 3,
-      "count": 0,
-          "name": "Amon",
-      "image": "./images/amon.gif"
-    },
+    
     {
       "id": 4,
       "count": 0,
@@ -86,53 +87,59 @@
     {
       "id": 15,
       "count": 0,
+          "name": "Matriarch",
+      "image": "./images/matriarch.gif"
+    },
+    {
+      "id": 16,
+      "count": 0,
           "name": "Overmind",
       "image": "./images/overmind.gif"
     },
     {
-      "id": 16,
+      "id": 17,
       "count": 0,
           "name": "Raszagal",
       "image": "./images/raszagal.gif"
     },
     {
-      "id": 17,
+      "id": 18,
       "count": 0,
           "name": "Samir Duran",
       "image": "./images/samir-duran.gif"
     },
     {
-      "id": 18,
+      "id": 19,
       "count": 0,
           "name": "Science Vessel",
       "image": "./images/science-vessel.gif"
     },
     {
-      "id": 19,
+      "id": 20,
       "count": 0,
           "name": "Tassadar",
       "image": "./images/tassadar.gif"
     },
     {
-      "id": 20,
+      "id": 21,
       "count": 0,
           "name": "UED",
       "image": "./images/ued-goliath.gif"
     },    
     {
-      "id": 21,
+      "id": 22,
       "count": 0,
           "name": "Valkyrie",
       "image": "./images/valkyrie.gif"
     },
     {
-      "id": 22,
+      "id": 23,
       "count": 0,
           "name": "Wraith",
       "image": "./images/wraith.gif"
     },
     {
-      "id": 23,
+      "id": 24,
       "count": 0,
           "name": "Zeratul",
       "image": "./images/zeratul.gif"
