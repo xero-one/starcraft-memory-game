@@ -1,8 +1,8 @@
 {
-  "name": "clicky-game",
+  "name": "starcraft-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bxxdyz.github.io/clicky-game",
+  "homepage": "http://bxxdyz.github.io/starcraft-memory-game",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
