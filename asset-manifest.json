@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.51b72bdd.chunk.css",
-    "main.js": "/clicky-game/static/js/main.0113ed34.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.0113ed34.chunk.js.map",
-    "runtime-main.js": "/clicky-game/static/js/runtime-main.cf0d8eec.js",
-    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.cf0d8eec.js.map",
-    "static/js/2.dac8f412.chunk.js": "/clicky-game/static/js/2.dac8f412.chunk.js",
-    "static/js/2.dac8f412.chunk.js.map": "/clicky-game/static/js/2.dac8f412.chunk.js.map",
-    "index.html": "/clicky-game/index.html",
-    "precache-manifest.912925f72adc86ffa31bec1663313deb.js": "/clicky-game/precache-manifest.912925f72adc86ffa31bec1663313deb.js",
-    "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/main.51b72bdd.chunk.css.map": "/clicky-game/static/css/main.51b72bdd.chunk.css.map",
-    "static/media/correctFX.wav": "/clicky-game/static/media/correctFX.74b9a09d.wav",
-    "static/media/header.css": "/clicky-game/static/media/sc-logo.05fc41e4.svg",
-    "static/media/starcraftTHEME.mp3": "/clicky-game/static/media/starcraftTHEME.0da37542.mp3",
-    "static/media/wrongFX.wav": "/clicky-game/static/media/wrongFX.356f45c0.wav"
+    "main.css": "/starcraft-memory-game/static/css/main.ac477ed1.chunk.css",
+    "main.js": "/starcraft-memory-game/static/js/main.be3acea8.chunk.js",
+    "main.js.map": "/starcraft-memory-game/static/js/main.be3acea8.chunk.js.map",
+    "runtime-main.js": "/starcraft-memory-game/static/js/runtime-main.aac95d76.js",
+    "runtime-main.js.map": "/starcraft-memory-game/static/js/runtime-main.aac95d76.js.map",
+    "static/js/2.37d94d11.chunk.js": "/starcraft-memory-game/static/js/2.37d94d11.chunk.js",
+    "static/js/2.37d94d11.chunk.js.map": "/starcraft-memory-game/static/js/2.37d94d11.chunk.js.map",
+    "index.html": "/starcraft-memory-game/index.html",
+    "precache-manifest.5ddec27612690ecbd89e1fdc8ef668dc.js": "/starcraft-memory-game/precache-manifest.5ddec27612690ecbd89e1fdc8ef668dc.js",
+    "service-worker.js": "/starcraft-memory-game/service-worker.js",
+    "static/css/main.ac477ed1.chunk.css.map": "/starcraft-memory-game/static/css/main.ac477ed1.chunk.css.map",
+    "static/media/correctFX.wav": "/starcraft-memory-game/static/media/correctFX.74b9a09d.wav",
+    "static/media/header.css": "/starcraft-memory-game/static/media/sc-logo.05fc41e4.svg",
+    "static/media/starcraftTHEME.mp3": "/starcraft-memory-game/static/media/starcraftTHEME.0da37542.mp3",
+    "static/media/wrongFX.wav": "/starcraft-memory-game/static/media/wrongFX.356f45c0.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf0d8eec.js",
-    "static/js/2.dac8f412.chunk.js",
-    "static/css/main.51b72bdd.chunk.css",
-    "static/js/main.0113ed34.chunk.js"
+    "static/js/runtime-main.aac95d76.js",
+    "static/js/2.37d94d11.chunk.js",
+    "static/css/main.ac477ed1.chunk.css",
+    "static/js/main.be3acea8.chunk.js"
   ]
 }
