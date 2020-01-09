@@ -32,6 +32,7 @@ Welcome fellow coders and viewers! Welcome to our first memory game. We based th
     <li>Add more header graphic/animation</li>
     <li>Change color scheme</li>
     <li>Add in game instructions</li>
+    <li>Add a link to the official game website</li>
 </ul>
 <br>
 <h3>Link to the <a href="https://bxxdyz.github.io/starcraft-memory-game" target="_blank">Starcraft memory game project </a></h3>
