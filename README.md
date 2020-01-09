@@ -27,4 +27,4 @@ Welcome fellow coders and viewers! Welcome to our first memory game. We based th
     <li><a href="https://www.npmjs.com/package/node" target="_blank">Node</a></li>
 </ul>
 <br>
-<h3>Link to the <a href="https://note-pal.herokuapp.com/NotePal/" target="_blank">NotePal project </a></h3>
+<h3>Link to the <a href="https://bxxdyz.github.io/starcraft-memory-game" target="_blank">Starcraft memory Game project </a></h3>
