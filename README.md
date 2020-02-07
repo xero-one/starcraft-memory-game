@@ -31,6 +31,7 @@
     <li>Change color scheme</li>
     <li>Add in game instructions</li>
     <li>Add a link to the official game website</li>
+    <li>Add social media intergration for sharing results</li>
 </ul>
 
 <br>
